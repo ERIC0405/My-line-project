@@ -49,9 +49,9 @@ html {
     height: 300px;
     border-radius: 5px;
     z-index: 1;
-    /*优先*/
+    /*priority*/
     text-align: center;
-    /* 实现对浏览器窗口的垂直居中 */
+    /* Implement vertical centering of the browser window */
     position: absolute;
     left: 50%;
     top: 50%;
@@ -59,7 +59,7 @@ html {
 }
 
 
-/* 弹出框的提示文字部分 */
+/* The prompt text section of the pop-up box */
 
 .header {
     height: 240px;display: flex;
@@ -71,7 +71,7 @@ html {
 }
 
 
-/* 弹出框的两个按钮部分 */
+/* Two button sections of the pop-up box */
 
 .footer {
     height: 60px;
@@ -80,7 +80,7 @@ html {
 }
 
 
-/* 取消和确认按钮的设置 */
+/* Cancel and confirm button Settings */
 
 .confirm,
 .cancel {
