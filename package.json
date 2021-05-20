@@ -1,0 +1,22 @@
+{
+  "name": "line-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERIC0405/My-line-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERIC0405/My-line-project/issues"
+  },
+  "homepage": "https://github.com/ERIC0405/My-line-project#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
