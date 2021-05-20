@@ -19,6 +19,8 @@
   "dependencies": {
     "browser-sync": "^2.26.14",
     "clean-css": "^5.1.2",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^6.0.0"
   }
 }
