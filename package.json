@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ERIC0405/My-line-project#readme",
   "dependencies": {
+    "browser-sync": "^2.26.14",
+    "clean-css": "^5.1.2",
     "gulp": "^4.0.2"
   }
 }
